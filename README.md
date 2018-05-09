@@ -82,7 +82,7 @@ o Once a product is added,
 o Once the page is reloaded, the shopping list is restored 
  Page reloads when users browse another category or visit the product detail page
  Populate and retrieve the stored products from the localStorage
-# The whole process of shopping list management must be done without a page load
+ The whole process of shopping list management must be done without a page load
 
 PHASE 4: SECURING THE WEBSITE 
 In this phase, you will protect your website against many popular web application security threats.
