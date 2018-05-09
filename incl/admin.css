@@ -1,0 +1,28 @@
+fieldset{width:310px}
+form label{clear:left;float:left;width:90px;line-height:29px}
+form div{padding:4px 0}
+input[type=text],input[type=number],select,textarea{width:200px}
+
+#categoryPanel,#categoryEditPanel{float:left;width:350px;border-right:1px solid #CCC}
+#productPanel,#productEditPanel{float:left;padding-left:10px;}
+#userPanel,#userEditPanel{float:left;padding-left:10px}
+
+#categoryList span{cursor:pointer;text-decoration:underline;color:#00F}
+#categoryList span:hover{text-decoration:none}
+#categoryList span.edit, #categoryList span.delete{float:right;padding-right:10px}
+
+#productList span.edit{cursor:pointer;text-decoration:underline;color:#00F}
+#productList span.delete{cursor:pointer;text-decoration:underline;color:#00F}
+#productList span.edit:hover{text-decoration:none}
+#productList span.delete:hover{text-decoration:none}
+#productList span.edit, #productList span.delete{float:right;padding-right:10px}
+
+#userList span.delete{cursor:pointer;text-decoration:underline;color:#00F}
+#userList span.delete:hover{text-decoration:none}
+#userList span.delete{float:right;padding-right:10px}
+
+#orderList span.delete{cursor:pointer;text-decoration:underline;color:#00F}
+#orderList span.delete:hover{text-decoration:none}
+
+.hide{display:none}
+.clear{clear:both}
